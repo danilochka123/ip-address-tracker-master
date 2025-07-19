@@ -15,5 +15,6 @@
   "dependencies": {
     "lea": "^2.2.4",
     "leaflet": "^1.9.4"
-  }
+  },
+  "type": "module"
 }
