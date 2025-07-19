@@ -26,7 +26,7 @@ npm-debug.log*
 /dist
 /.next
 /out
-.cache/
+/cache
 # IDEs and editors
 /.idea
 /.vscode
